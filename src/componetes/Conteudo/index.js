@@ -38,8 +38,10 @@ function Conteudo() {
                         Dev FrontEnd SECAD
                     </li>
                     <li classname="">
-                        <span>📧 </span>
-                        caiquepedasilva@gmail.com
+                        <a href='mailto:caiquepe.dasilva@gmail.com' target="_blank">
+                            <span>📧 </span>
+                        </a>
+                        caiquepe.dasilva@gmail.com
                     </li>
                 </ul>
 
@@ -52,7 +54,7 @@ function Conteudo() {
                 <a href='https://www.linkedin.com/in/caiquepedasilva/' target="_blank">
                     <AiFillLinkedin />
                 </a>
-                <a href='' target="_blank">
+                <a href='https://www.instagram.com/caiquepe.dasilva/' target="_blank">
                     <AiFillInstagram />
                 </a>
             </div>
