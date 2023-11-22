@@ -48,9 +48,6 @@ function Conteudo() {
                 <a href='https://github.com/caiquepedasilva' target="_blank">
                     <AiFillGithub />
                 </a>
-                <a href='' target="_blank">
-                    <AiFillFacebook />
-                </a>
                 <a href='https://www.linkedin.com/in/caiquepedasilva/' target="_blank">
                     <AiFillLinkedin />
                 </a>
